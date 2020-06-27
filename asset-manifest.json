@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/services.hericl.es/static/css/main.bd0c8ec7.chunk.css",
+    "main.js": "/services.hericl.es/static/js/main.04d05c38.chunk.js",
+    "main.js.map": "/services.hericl.es/static/js/main.04d05c38.chunk.js.map",
+    "runtime-main.js": "/services.hericl.es/static/js/runtime-main.7f8288d4.js",
+    "runtime-main.js.map": "/services.hericl.es/static/js/runtime-main.7f8288d4.js.map",
+    "static/js/2.736c1724.chunk.js": "/services.hericl.es/static/js/2.736c1724.chunk.js",
+    "static/js/2.736c1724.chunk.js.map": "/services.hericl.es/static/js/2.736c1724.chunk.js.map",
+    "index.html": "/services.hericl.es/index.html",
+    "precache-manifest.ec24683541d2970f9ea6f5da929755ce.js": "/services.hericl.es/precache-manifest.ec24683541d2970f9ea6f5da929755ce.js",
+    "service-worker.js": "/services.hericl.es/service-worker.js",
+    "static/css/main.bd0c8ec7.chunk.css.map": "/services.hericl.es/static/css/main.bd0c8ec7.chunk.css.map",
+    "static/js/2.736c1724.chunk.js.LICENSE.txt": "/services.hericl.es/static/js/2.736c1724.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f8288d4.js",
+    "static/js/2.736c1724.chunk.js",
+    "static/css/main.bd0c8ec7.chunk.css",
+    "static/js/main.04d05c38.chunk.js"
+  ]
+}
